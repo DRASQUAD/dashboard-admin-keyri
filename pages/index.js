@@ -15,5 +15,10 @@ export default function Home() {
           <Chart/>
         <Footer/>
     </React.Fragment>
+
+    dev
+    feature/dashboard-admin
+    hotfix/dashboard-admin
+    staging
   )
 }
