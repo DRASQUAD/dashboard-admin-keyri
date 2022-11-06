@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "styles/*": ["./styles/*"],
+      "components": ["./components"],
+      "constant": ["./constant/*"],
+      "templates": ["./components/templates"],
+      "atoms/custom": ["./components/atoms/custom"],
+      "atoms/common": ["./components/atoms/common"],
+    }
+  }
+}
